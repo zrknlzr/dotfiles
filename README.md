@@ -1,2 +1,2 @@
 # dotfiles
-just my dotfiles. feel free to use and alter.
+dotfile repo for personal Arch Linux setup
